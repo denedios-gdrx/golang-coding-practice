@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__atlassian__fetch",
+      "mcp__atlassian__getConfluencePage",
+      "mcp__glean_default__search"
+    ]
+  }
+}
